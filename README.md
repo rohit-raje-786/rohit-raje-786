@@ -9,7 +9,7 @@
 
 
 - :school: <samp>I'm [Rohit](https://rohit-patil.netlify.app/), an IT undergrad</samp>
-- 👝 <samp>Intern at [Levyne](https://levyne.com/) working on [Frontend](https://github.com/upptime/upptime).</samp>
+- 👝 <samp>Intern at [Levyne](https://levyne.com/) working on [Frontend](https://levyne.com/).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
 - 📫 Let's Connect: 
  <a href="https://github.com/rohit-raje-786" target="_blank">
