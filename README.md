@@ -8,7 +8,7 @@
 
 
 
-- :school: <samp>I'm [Rohit](https://kjsce.somaiya.edu/en), a IT undergrad</samp>
+- :school: <samp>I'm [Rohit](https://rohit-patil.netlify.app/), an IT undergrad</samp>
 - 👝 <samp>Intern at [Levyne](https://levyne.com/) working on [Frontend](https://github.com/upptime/upptime).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
 - 📫 Let's Connect: 
