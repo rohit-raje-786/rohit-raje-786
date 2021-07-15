@@ -3,7 +3,7 @@
 <hr>
 
 
-<img align="right" alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/laptop-memoji.jpg" />
+<img align="right" alt="GIF" height="200px" src="https://i.ytimg.com/vi/hnZm96OAV2Y/maxresdefault.jpg" />
 
 
 
