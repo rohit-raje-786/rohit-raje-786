@@ -11,6 +11,8 @@
 - :school: <samp>I'm [Rohit](https://rohit-patil.netlify.app/), an IT undergrad</samp>
 - 👝 <samp>Intern at [Niscit](https://www.niscit.com/) working on [App Development](https://reactnative.dev/).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 - 📫 Let's Connect: 
  <a href="https://github.com/rohit-raje-786" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
