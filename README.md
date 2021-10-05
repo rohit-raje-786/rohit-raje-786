@@ -1,4 +1,4 @@
-### Hey there! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="32px">
+### Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="32px">
 
 <hr>
 
