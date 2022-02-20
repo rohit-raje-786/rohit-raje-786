@@ -9,7 +9,7 @@
 
 
 - :school: <samp>I'm [Rohit](https://rohit-patil.netlify.app/), an IT undergrad</samp>
-- 👝 <samp>Intern at [Pucho Digital Inc]() working on [Blockchain Development](https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df).</samp>
+- 👨‍💻 <samp>Currently Focusing on [DSA](https://www.geeksforgeeks.org/data-structures/).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
