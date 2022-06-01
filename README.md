@@ -1,4 +1,4 @@
-### Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="32px" height="20px">
+### Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="32px" height="40px">
 
 <hr>
 
