@@ -11,7 +11,6 @@
 - :school: <samp>I'm [Rohit](https://rohit-patil.netlify.app/), an IT undergrad</samp>
 - 👨‍💻 <samp>Currently Focusing on [DSA](https://www.geeksforgeeks.org/data-structures/).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
-- 📱 <samp>App Developer Intern at [Xoog](https://www.xoog.info/).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 - 📫 Let's Connect: 
